@@ -30,7 +30,7 @@ It's a simple card component
 
 ### Links
 
-- Solution URL: [davham.github.io/fm-qr-component](https://davham.github.io/fm-qr-component)
+- Solution URL: [davham.github.io/fm-qr-component](https://github.com/davham/fm-qr-component/tree/main)
 - Live Site URL: [davham.github.io/fm-qr-component](https://davham.github.io/fm-qr-component)
 
 ## My process
